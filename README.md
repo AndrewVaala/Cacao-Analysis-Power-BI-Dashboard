@@ -7,9 +7,9 @@
 
 # Table of Contents
 - [Objectives](#Objectives)
-- [SKILLS_DEMONSTRATED](#SKILLS_DEMONSTRATED)
+- [Skills_Demonstrated](#Skills_Demonstrated)
 - [Key_Insights](#Key_Insights)
-- [TOOLS_&_SKILLS](#TOOLS_&_SKILLS)
+- [Tools_and_Skills](#Tools_and_Skills)
 
 
 # Objectives
@@ -23,7 +23,7 @@ Examine the relationship between cocoa content (%) and ratings.
 Compare chocolate ratings across geographic company locations (U.S., France, U.K., etc.).
 
 
-# SKILLS_DEMONSTRATED
+# Skills_Demonstrated
 This analysis involved multiple data processing and analytical techniques, including:
 
 Data Extraction & Transformation: Converting PDF data and cleaning it in Excel.
@@ -32,7 +32,7 @@ Data Analysis & Quick Measures: Creating meaningful insights with DAX measures i
 Visualization & Reporting: Presenting findings in a clear and actionable format.
 Critical Thinking & Problem-Solving: Identifying key financial trends and investment opportunities.
 
-# TOOLS_&_SKILLS
+# Tools_and_Skills
 Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis.
 Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
 Data visualization & storytelling
