@@ -7,9 +7,9 @@
 
 # Table of Contents
 - [Objectives](#Objectives)
-- [SKILLS DEMONSTRATED](#SKILLS DEMONSTRATED)
-- [Key Insights](#Key Insights)
-- [TOOLS & SKILLS](#TOOLS & SKILLS)
+- [SKILLS_DEMONSTRATED](#SKILLS_DEMONSTRATED)
+- [Key_Insights](#Key_Insights)
+- [TOOLS_&_SKILLS](#TOOLS_&_SKILLS)
 
 
 # Objectives
