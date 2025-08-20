@@ -39,6 +39,9 @@ Power BI: Employed for the main analysis and data visualization, enabling the ex
 Data visualization & storytelling
 Exploratory data analysis (EDA)
 
+# Data_Source
+This data was a group project at Blossom Academy.
+
 # Key_Insights
 
 Average rating: 3.19 (scale of 1–5) → Most ratings cluster between 2.75–3.50.
