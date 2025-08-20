@@ -60,10 +60,12 @@ Experiment with cocoa content: Explore beyond the common 70–75% range to ident
 Differentiate sourcing: Highlight unique bean origins (e.g., single-origin marketing) to attract consumers seeking authenticity.
 
 For Industry Stakeholders:
+
 Promote diversity in the market: Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration.
 Educate consumers: Provide more transparency on bean origins and production processes to influence quality perception.
 
 For Future Research/Analysis:
+
 Deeper sentiment analysis: Pair ratings with consumer reviews to capture qualitative insights.
 Geographic preference mapping: Compare consumer preferences by region to align product offerings.
 Trend monitoring: Track shifts in cocoa content popularity (e.g., growth in low-sugar, vegan, or specialty bars).
