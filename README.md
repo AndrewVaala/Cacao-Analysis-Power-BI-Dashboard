@@ -34,8 +34,10 @@ Visualization & Reporting: Presenting findings in a clear and actionable format.
 Critical Thinking & Problem-Solving: Identifying key financial trends and investment opportunities.
 
 # Tools_and_Skills
-Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis. \n
+Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis. 
+
 Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
+
 Data visualization & storytelling
 Exploratory data analysis (EDA)
 
