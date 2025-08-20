@@ -39,6 +39,7 @@ Microsoft Excel: This was used for initial data loading and cleaning, transformi
 Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
 
 Data visualization & storytelling
+
 Exploratory data analysis (EDA)
 
 # Data_Source
