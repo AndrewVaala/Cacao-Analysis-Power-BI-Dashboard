@@ -8,8 +8,9 @@ This project explores global artisan chocolate ratings through an interactive Po
 # Table of Contents
 - [Objectives](#Objectives)
 - [Skills_Demonstrated](#Skills_Demonstrated)
-- [Key_Insights](#Key_Insights)
 - [Tools_and_Skills](#Tools_and_Skills)
+- [Data_Source](#Data_Source)
+- [Key_Insights](#Key_Insights)
 - [Recommendations](#Recommendations)
 
 
