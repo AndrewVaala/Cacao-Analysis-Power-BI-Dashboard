@@ -2,7 +2,7 @@
 
 ## Overview
 
-#This project explores global artisan chocolate ratings through an interactive Power BI report. Using data on chocolate bars, companies, and cocoa content, the analysis uncovers trends in quality perception and market dynamics.
+This project explores global artisan chocolate ratings through an interactive Power BI report. Using data on chocolate bars, companies, and cocoa content, the analysis uncovers trends in quality perception and market dynamics.
 
 
 # Table of Contents
