@@ -35,7 +35,7 @@ Data Analysis & Quick Measures: Creating meaningful insights with DAX measures i
 
 Visualization & Reporting: Presenting findings in a clear and actionable format.
 
-Critical Thinking & Problem-Solving: Identifying key financial trends and investment opportunities.
+Critical Thinking & Problem-Solving: Identifying key trends and opportunities.
 
 # Tools_and_Skills
 Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis. 
