@@ -28,15 +28,15 @@ Compare chocolate ratings across geographic company locations (U.S., France, U.K
 # Skills_Demonstrated
 This analysis involved multiple data processing and analytical techniques, including:
 
-Data Extraction & Transformation: Converting PDF data and cleaning it in Excel.
+* Data Extraction & Transformation: Converting PDF data and cleaning it in Excel.
 
-Data Processing & Cleaning: Structuring messy data using Power Query.
+* Data Processing & Cleaning: Structuring messy data using Power Query.
 
-Data Analysis & Quick Measures: Creating meaningful insights with DAX measures in Power BI.
+* Data Analysis & Quick Measures: Creating meaningful insights with DAX measures in Power BI.
 
-Visualization & Reporting: Presenting findings in a clear and actionable format.
+* Visualization & Reporting: Presenting findings in a clear and actionable format.
 
-Critical Thinking & Problem-Solving: Identifying key trends and opportunities.
+* Critical Thinking & Problem-Solving: Identifying key trends and opportunities.
 
 # Tools_and_Skills
 Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis. 
