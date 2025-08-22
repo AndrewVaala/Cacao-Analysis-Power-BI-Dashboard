@@ -126,7 +126,7 @@ Also only 8.5% of chocolates fall into premium or elite categories.
 # Recommendations
 
 
-* Chocolate manufacturing Companies would have to focus on quality over quantity. Since most ratings cluster between 2.75 to 3.50, improving consistency and flavor profiles could help brands stand out. Companies also have to experiment with cocoa content to explore beyond the common 70–75% range to identify niches in premium or milk chocolate segments. There should be products made from single sourced origins which can be promoted in their marketing material to  attract consumers seeking authenticity.
+* Chocolate manufacturing Companies would have to focus on quality over quantity. Since most ratings cluster between 2.75 to 3.50, improving consistency and flavor profiles could help brands stand out. Companies also have to experiment with cocoa content to explore beyond the common 70 and 75% range to identify niches in premium or milk chocolate segments. There should be products made from single sourced origins which can be promoted in their marketing material to  attract consumers seeking authenticity.
 
 
 *  Cocoa Supply chain and industry stakeholders would have to promote Forastero Nacional beans in the market. Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration. Also provide more transparency on bean origins and production processes to influence quality perception.
