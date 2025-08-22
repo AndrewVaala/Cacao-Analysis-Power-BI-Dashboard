@@ -23,15 +23,15 @@ Microsoft Excel: This was used for initial data loading and cleaning, transformi
 
 Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
 
-Data visualization & storytelling
+Data visualization & storytelling.
 
-Exploratory data analysis (EDA)
+Exploratory data analysis (EDA).
 
 
 # Skills_Demonstrated
 This analysis involved multiple data processing and analytical techniques, including:
 
-* Data Extraction & Transformation: Converting PDF data and cleaning it in Excel.
+* Data Extraction & Transformation: Renaming columns and cleaning the  datat in Excel.
 
 * Data Processing & Cleaning: Structuring messy data using Power Query.
 
@@ -39,10 +39,11 @@ This analysis involved multiple data processing and analytical techniques, inclu
 
 * Visualization & Reporting: Presenting findings in a clear and actionable format.
 
-* Critical Thinking & Problem-Solving: Identifying key trends and opportunities.
+* Critical Thinking & Problem Solving: Identifying key trends and opportunities in the chocolate market.
 
 # Data_Processing
 **Data Transformation**
+
 Removed duplicate records to ensure unique entries for each chocolate bar.
 Eliminated rows with missing or invalid ratings, cocoa percentages, or company names.
 Standardized inconsistent text formats (e.g., trimming spaces, correcting spelling errors in company or bean origin names).
@@ -51,12 +52,13 @@ Converted numeric fields like Rating and Cocoa Percentage from text to numeric f
 <img width="1366" height="733" alt="Screenshot (702)" src="https://github.com/user-attachments/assets/76977c41-e8b2-4cc9-8d43-e9f9380cbcf7" />
 
 **Data Preparation in Power BI**
+
 After loading the cleaned data into Power BI, the following transformations and enhancements were made:
 Created calculated column for Rating Category (e.g., Satisfactory, Premium, Elite) based on rating thresholds.
 
 <img width="1366" height="346" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/f9fd2ec5-24ad-4bf9-86e3-e17d051699c3" />
 
-Created calculated measure for Average Rating
+Calculated measure for Average Rating
 
 
 <img width="1366" height="346" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/eb211f7c-67aa-42f8-9fad-d30fe16bfd80" />
@@ -65,7 +67,7 @@ Created calculated measure for Average Rating
 
 * Evaluate the overall rating distribution to understand perceived chocolate quality.
 
-* Identify top-performing companies consistently producing highly rated bars.
+* Identify top performing companies consistently producing highly rated bars.
 
 * Examine the relationship between cocoa content (%) and ratings.
 
@@ -98,12 +100,12 @@ Companies from France, the United States, and Canada consistently outperform oth
 <img width="960" height="519" alt="Screenshot (701)" src="https://github.com/user-attachments/assets/054fe982-823e-4430-9042-88e1fa9bbe03" />
 
 
-  A total of 1,038 chocolate bars from 60 company locations were reviewed and the average rating of 3.19 on a 1–5 . This indicates clearly a general satisfaction with the various chocolate products by the various brands. 
+  A total of 1,038 chocolate bars from 60 company locations were reviewed and the average rating of 3.19 on a 1 to 5 scale . This indicates clearly a general satisfaction with the various chocolate products by the various brands. 
 
   A large portion of the chocolates products on the market about 69.42% were deemed as satisfactory by the customers. However, almost a quarter of the chocolate products about 24.07% had been reviewed as being less than satisfactory. This is still a relatively high number.
 Also only 8.5% of chocolates fall into premium or elite categories.
 
-  Companies from Italy, Canada, and France lead with the highest average ratings (3.3) and these all happen to be European companies which reflects the long history of chocolate making in these countries. Companies from  United States had an average rating of 3.2  and those from the  United Kingdom had an average rating of 3.1 .
+  Companies from Italy, Canada, and France lead with the highest average ratings of 3.3 and these all happen to be European companies which reflects the long history of chocolate making in these countries. Companies from  United States had an average rating of 3.2  and those from the  United Kingdom had an average rating of 3.1 .
 
   Average ratings show a steady upward trend from 2.99 in 2008 to 3.41 in 2017, indicating an improvement in chocolate quality or better alignment with consumer preferences over time. While the market demonstrates a strong baseline of satisfactory quality, there is significant room for growth in the premium and elite segments. Brands that innovate in flavor, sourcing, and production quality could capitalize on this gap.
 
@@ -111,7 +113,7 @@ Also only 8.5% of chocolates fall into premium or elite categories.
 # Key_Insights
 
 
-* The average rating of all chocolate products analysed was 3.19. Most chocolate bars are rated between 2.75 and 3.50, showing that the market delivers consistent, the diststribution of rating was between the mid-to-high  section with very little extreme variations.
+* The average rating of all chocolate products analysed was 3.19. Most chocolate bars are rated between 2.75 and 3.50, showing that the market delivers consistent, the diststribution of rating was between the mid range to high  section with very little extreme variations.
 
 * The averate cocaa percentage in finished products were 71.7%. Majority of the products analyzed  fell within the 70–75% cocoa range, indicating a strong preference for dark chocolate among both producers and consumers.
 
@@ -124,7 +126,7 @@ Also only 8.5% of chocolates fall into premium or elite categories.
 # Recommendations
 
 
-* Chocolate manufacturing Companies would have to focus on quality over quantity. Since most ratings cluster between 2.75–3.50, improving consistency and flavor profiles could help brands stand out. Companies also have to experiment with cocoa content to explore beyond the common 70–75% range to identify niches in premium or milk chocolate segments. There should be products made from single sourced origins which can be promoted in their marketing material to  attract consumers seeking authenticity.
+* Chocolate manufacturing Companies would have to focus on quality over quantity. Since most ratings cluster between 2.75 to 3.50, improving consistency and flavor profiles could help brands stand out. Companies also have to experiment with cocoa content to explore beyond the common 70–75% range to identify niches in premium or milk chocolate segments. There should be products made from single sourced origins which can be promoted in their marketing material to  attract consumers seeking authenticity.
 
 
 *  Cocoa Supply chain and industry stakeholders would have to promote Forastero Nacional beans in the market. Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration. Also provide more transparency on bean origins and production processes to influence quality perception.
