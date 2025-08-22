@@ -7,7 +7,7 @@
 - [Tools_and_Skills](#Tools_and_Skills)
 - [Skills_Demonstrated](#Skills_Demonstrated)
 - [Objectives](#Objectives)
-- [Data Analysis_and_visualization](#Data Analysis_and_visualization)
+- [Data_Analysis_and_visualization](#Data_Analysis_and_visualization)
 - [Key_Insights](#Key_Insights)
 - [Recommendations](#Recommendations)
 
