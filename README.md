@@ -96,7 +96,7 @@ Focus on quality over quantity: Since most ratings cluster between 2.75–3.50, 
 Experiment with cocoa content: Explore beyond the common 70–75% range to identify niches in premium or milk chocolate segments.
 Differentiate sourcing: Highlight unique bean origins (e.g., single-origin marketing) to attract consumers seeking authenticity.
 
-** For Cocoa Supply chain or Industry Stakeholders: **
+**For Cocoa Supply chain or Industry Stakeholders:**
 
 Promote diversity in the market: Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration.
 Educate consumers: Provide more transparency on bean origins and production processes to influence quality perception.
