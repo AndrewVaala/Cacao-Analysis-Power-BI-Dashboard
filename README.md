@@ -42,26 +42,24 @@ This analysis involved multiple data processing and analytical techniques, inclu
 * Critical Thinking & Problem-Solving: Identifying key trends and opportunities.
 
 # Data_Processing
-Data Transformation:
-Several steps were taken in Power Query (Excel) to ensure the data was clean and well-structured:
-
-Data types were standardized.
-The first row was promoted to headers for consistency.
-
-Data Preparation in Power BI:
-After loading the cleaned data into Power BI, the following transformations and enhancements were made:
-
-
+**Data Transformation**
+Removed duplicate records to ensure unique entries for each chocolate bar.
+Eliminated rows with missing or invalid ratings, cocoa percentages, or company names.
+Standardized inconsistent text formats (e.g., trimming spaces, correcting spelling errors in company or bean origin names).
+Converted numeric fields like Rating and Cocoa Percentage from text to numeric for accurate calculations.
 
 <img width="1366" height="733" alt="Screenshot (702)" src="https://github.com/user-attachments/assets/76977c41-e8b2-4cc9-8d43-e9f9380cbcf7" />
 
+**Data Preparation in Power BI**
+After loading the cleaned data into Power BI, the following transformations and enhancements were made:
+Created calculated column for Rating Category (e.g., Satisfactory, Premium, Elite) based on rating thresholds.
+
+<img width="1366" height="346" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/f9fd2ec5-24ad-4bf9-86e3-e17d051699c3" />
+
+Created calculated measure for Average Rating
 
 
-
-
-
-
-
+<img width="1366" height="346" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/eb211f7c-67aa-42f8-9fad-d30fe16bfd80" />
 
 # Objectives
 
