@@ -1,5 +1,16 @@
 # Cacao Analysis
 
+# Table of Contents
+
+- [Overview](#Overview)
+- [Data_Source](#Data_Source)
+- [Tools_and_Skills](#Tools_and_Skills)
+- [Skills_Demonstrated](#Skills_Demonstrated)
+- [Objectives](#Objectives)
+- [Data Analysis_and_visualization](#Data Analysis_and_visualization)
+- [Key_Insights](#Key_Insights)
+- [Recommendations](#Recommendations)
+
 ## Overview
 
 This project explores global artisan chocolate ratings through an interactive Power BI report. Using data on chocolate bars, companies, and cocoa content, the analysis uncovers trends in quality perception and market dynamics.
@@ -16,32 +27,6 @@ Data visualization & storytelling
 
 Exploratory data analysis (EDA)
 
-# Data_Processing
-
-
-
-# Table of Contents
-
-- [Overview](#Overview)
-- [Data_Source](#Data_Source)
-- [Tools_and_Skills](#Tools_and_Skills)
-- [Objectives](#Objectives)
-- [Skills_Demonstrated](#Skills_Demonstrated)
-- [Data Analysis_and_visualization](#Data Analysis_and_visualization)
-- [Key_Insights](#Key_Insights)
-- [Recommendations](#Recommendations)
-
-
-# Objectives
-
-Evaluate the overall rating distribution to understand perceived chocolate quality.
-
-Identify top-performing companies consistently producing highly rated bars.
-
-Examine the relationship between cocoa content (%) and ratings.
-
-Compare chocolate ratings across geographic company locations (U.S., France, U.K., etc.).
-
 
 # Skills_Demonstrated
 This analysis involved multiple data processing and analytical techniques, including:
@@ -56,21 +41,52 @@ This analysis involved multiple data processing and analytical techniques, inclu
 
 * Critical Thinking & Problem-Solving: Identifying key trends and opportunities.
 
+# Data_Processing
+Data Transformation:
+Several steps were taken in Power Query (Microsoft Excel) to ensure the data was clean and well-structured:
+
+Data types were standardized.
+The first row was promoted to headers for consistency.
+
+Data Preparation in Power BI:
+After loading the cleaned data into Power BI, the following transformations and enhancements were made:
+
+Date column breakdown: The day, month, and year were extracted to facilitate time-based analysis.
+
+
+
+
+
+
+
+# Objectives
+
+* Evaluate the overall rating distribution to understand perceived chocolate quality.
+
+* Identify top-performing companies consistently producing highly rated bars.
+
+* Examine the relationship between cocoa content (%) and ratings.
+
+* Compare chocolate ratings across geographic company locations (U.S., France, U.K., etc.).
+
+
+
+
 
 # Data Analysis_and_visualization
 
 
 # Key_Insights
 
-Average rating: 3.19 (scale of 1–5) → Most ratings cluster between 2.75–3.50.
+* Average rating: 3.19 (scale of 1–5) → Most ratings cluster between 2.75–3.50.
 
-Cocoa percentage: ~71.7% → Majority of bars are dark chocolate (70–75% cocoa).
+* Cocoa percentage: ~71.7% → Majority of bars are dark chocolate (70–75% cocoa).
 
-Quality perception: Ratings tend to be relatively high, hinting at either genuine quality or review bias.
+* Quality perception: Ratings tend to be relatively high, hinting at either genuine quality or review bias.
 
-Market concentration: A few North American and European companies dominate the dataset.
+* Market concentration: A few North American and European companies dominate the dataset.
 
-Global sourcing: Bean origins highlight the diverse international supply of cacao.
+* Global sourcing: Bean origins highlight the diverse international supply of cacao.
 
 # Recommendations
 
@@ -80,7 +96,7 @@ Focus on quality over quantity: Since most ratings cluster between 2.75–3.50, 
 Experiment with cocoa content: Explore beyond the common 70–75% range to identify niches in premium or milk chocolate segments.
 Differentiate sourcing: Highlight unique bean origins (e.g., single-origin marketing) to attract consumers seeking authenticity.
 
-* For Cocoa Supply chain or Industry Stakeholders:
+** For Cocoa Supply chain or Industry Stakeholders: **
 
 Promote diversity in the market: Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration.
 Educate consumers: Provide more transparency on bean origins and production processes to influence quality perception.
