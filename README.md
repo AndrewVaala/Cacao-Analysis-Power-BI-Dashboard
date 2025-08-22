@@ -81,71 +81,51 @@ Date column breakdown: The day, month, and year were extracted to facilitate tim
 
 **Cocoa Origin and Chocolate companies Dashboard**
 <img width="929" height="509" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/5eefb183-7551-4bb7-8d07-98838c76ef1c" />
-The cacao analysis reveals notable trends in the artisan chocolate market based on ratings, bean origins, and cocoa content:
+The cacao analysis reveals notable trends in the artisan chocolate market based on ratings, bean origins interms of both country and region and species, and cocoa content in their finished products:
 
 Top-Performing Makers
-Soma leads the market with 47 highly rated chocolate bars, followed by Bonnat, Fresco, and Pralus. Overall, French and North American brands dominate the top-tier ratings.
-
-Overall Quality and Cocoa Content
-The average rating across all brands stands at 3.38 (on a 1–5 scale), reflecting generally favorable quality levels. The average cocoa content is approximately 72%, aligning with the popularity of dark chocolate in the premium market.
+Soma leads the market with 47 highly rated chocolate bars, followed by Bonnat, Fresco, and Pralus. Overall, French and North American brands dominate the top-tier ratings. The average rating across all brands stands at 3.38 (on a 1–5 scale), reflecting generally favorable quality levels. The average cocoa content is approximately 72%, aligning with the popularity of dark chocolate in the premium market.
 
 Bean Type Insights
-Chocolate made from Forastero (Nacional) beans achieved the highest average rating (3.3), while Forastero (Arriba) beans performed lowest at 2.8. This suggests that bean type plays a significant role in perceived quality.
+Chocolate made from Forastero (Nacional) beans achieved the highest average rating (3.3), while Forastero (Arriba) beans performed lowest at 2.8. This suggests that bean type plays a significant role in perceived quality. Companies from France, the United States, and Canada consistently outperform others, highlighting regions with strong expertise and brand reputation in the chocolate market.
 
 Cocoa Content and Ratings Relationship
-Ratings remain relatively stable (3.0–3.3) across cocoa content ranges (65%–85%), indicating that cocoa percentage alone is not a strong driver of perceived quality. Other factors, such as sourcing, roasting, and processing, likely have a greater influence.
+Ratings remain relatively constant around  3.0–3.3 with cocoa content ranging from 65% to 85%, indicating that cocoa percentage alone is not a strong driver of perceived quality. Other factors, such as sourcing, roasting, and processing, likely have a greater influence.
 
-Geographic Trends
+
 Companies from France, the United States, and Canada consistently outperform others, highlighting regions with strong expertise and brand reputation in the artisan chocolate market.
 
 
 **Cocoa Quality Overview**
 <img width="960" height="519" alt="Screenshot (701)" src="https://github.com/user-attachments/assets/054fe982-823e-4430-9042-88e1fa9bbe03" />
 
-Key Analysis
-Overall Performance
-A total of 1,038 chocolate bars from 60 company locations were reviewed, with an average rating of 3.19 (on a 1–5 scale), reflecting a generally satisfactory market quality.
 
-Rating Distribution
+A total of 1,038 chocolate bars from 60 company locations were reviewed, with an average rating of 3.19 (on a 1–5 scale). This indicates    a general satisfaction with the various chocolate products by the various brands. 
 
-Satisfactory chocolates dominate the market, accounting for 69.42% of all ratings.
-
-Disappointing products make up 24.07%, indicating inconsistency in product quality across some brands.
-
-Only 8.5% of chocolates fall into premium or elite categories, showing limited penetration of top-tier quality products.
+A large portion of the chocolates products on the market about 69.42% were deemed as satisfactory by the customers. However, almost a quarter of the chocolate products about 24.07% had been reviewed as being less than satisfactory. This is still a relatively high number.
+Also only 8.5% of chocolates fall into premium or elite categories.
 
 Geographic Insights
 
-Companies from Italy, Canada, and France lead with the highest average ratings (3.3).
-
-The United States (3.2) and the United Kingdom (3.1) follow, confirming the dominance of North American and European regions in premium chocolate production.
-
-Trends Over Time
-
-Average ratings show a steady upward trend from 2.99 in 2008 to 3.41 in 2017, indicating an improvement in chocolate quality or better alignment with consumer preferences over time.
-
-Market Quality Insights
-
-While the market demonstrates a strong baseline of satisfactory quality, there is significant room for growth in the premium and elite segments. Brands that innovate in flavor, sourcing, and production quality could capitalize on this gap.
+Companies from Italy, Canada, and France lead with the highest average ratings (3.3) and these all happen to be European companies which reflects the long history of chocolate making in these countries. 
+Companies from  United States had an average rating of 3.2  and those from the  United Kingdom had an average rating of 3.1 .
 
 
-
+Average ratings show a steady upward trend from 2.99 in 2008 to 3.41 in 2017, indicating an improvement in chocolate quality or better alignment with consumer preferences over time. While the market demonstrates a strong baseline of satisfactory quality, there is significant room for growth in the premium and elite segments. Brands that innovate in flavor, sourcing, and production quality could capitalize on this gap.
 
 
 # Key_Insights
 
 
+Average rating (3.19): Most chocolate bars are rated between 2.75 and 3.50, showing that the market delivers consistent, mid-to-high quality products without extreme variations.
 
-* Average rating: 3.19 (scale of 1–5) → Most ratings cluster between 2.75–3.50.
+Cocoa percentage (~71.7%): Most products fall within the 70–75% cocoa range, indicating a strong preference for dark chocolate among both producers and consumers.
 
-* Cocoa percentage: ~71.7% → Majority of bars are dark chocolate (70–75% cocoa).
+Quality perception: The generally high ratings suggest either consistently good quality or potential review bias, where products are rated more favorably than they objectively deserve.
 
-* Quality perception: Ratings tend to be relatively high, hinting at either genuine quality or review bias.
+Market concentration: A handful of North American and European brands dominate production and high ratings, highlighting a competitive but concentrated market.
 
-* Market concentration: A few North American and European companies dominate the dataset.
-
-* Global sourcing: Bean origins highlight the diverse international supply of cacao.
-
+Global sourcing: The diversity in bean origins shows that the cacao supply chain is highly international, with beans sourced globally but often processed by companies in key regions.
 # Recommendations
 
 * For Chocolate manufacturing Companies:
