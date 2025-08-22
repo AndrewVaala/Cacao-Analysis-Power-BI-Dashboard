@@ -75,8 +75,92 @@ Date column breakdown: The day, month, and year were extracted to facilitate tim
 
 # Data Analysis_and_visualization
 
+**Cocoa Origin and Chocolate companies Dashboard**
+<img width="929" height="509" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/5eefb183-7551-4bb7-8d07-98838c76ef1c" />
+Key Analysis
+
+Top Performing Makers
+
+Soma leads significantly with 47 top-rated bars, far ahead of competitors like Bonnat (27) and Fresco (26).
+
+French and North American brands dominate the highest-rated categories.
+
+Overall Quality Levels
+
+Average cocoa content: ~72% (aligning with dark chocolate preference).
+
+Average rating across all makers: ~3.38 on a 1–5 scale, indicating generally favorable quality but room for differentiation.
+
+Bean Type Insights
+
+Forastero (Nacional) beans score the highest (3.3), followed by Trinitario (3.2) and Criollo (3.2).
+
+Forastero (Arriba) shows lower ratings (2.8), suggesting potential quality or taste perception issues.
+
+Cocoa Content vs. Rating
+
+Ratings remain relatively stable (3.0–3.3) across cocoa levels from 65% to 85%.
+
+This indicates cocoa percentage alone doesn’t strongly influence quality perception; other factors like bean type or processing quality likely matter more.
+
+Geographic Trends
+
+Companies from France, the U.S., and Canada consistently feature in the top tier.
+
+European makers generally edge slightly higher in average ratings compared to others.
+
+
+**Cocoa Quality Overview**
+<img width="960" height="519" alt="Screenshot (701)" src="https://github.com/user-attachments/assets/054fe982-823e-4430-9042-88e1fa9bbe03" />
+
+Key Analysis
+1. Overall Performance
+
+Total Chocolate Bars Reviewed: 1,038 from 60 company locations.
+
+Average Rating: 3.19 (on a 1–5 scale), showing generally satisfactory quality in the artisan chocolate market.
+
+2. Rating Distribution
+
+Satisfactory: 69.42% (773 bars) dominate the dataset.
+
+Disappointing: 24.07% (288 bars), indicating quality inconsistency in nearly a quarter of products.
+
+Premium & Elite: Only 8.5% combined, signaling limited presence of exceptionally high-rated chocolate bars.
+
+3. Geographic Insights
+
+Top-rated regions:
+
+Italy, Canada, and France lead with average ratings of 3.3.
+
+The U.S. follows with 3.2, and the U.K. trails slightly at 3.1.
+
+This suggests European and North American makers dominate the premium quality spectrum.
+
+4. Rating Trends Over Time (2006–2017)
+
+Ratings have shown overall improvement:
+
+Lowest average: 2.99 (2008).
+
+Highest average: 3.41 (2017).
+
+This indicates a steady enhancement in chocolate quality or better alignment with consumer preferences over time.
+
+5. Market Quality Insights
+
+The high proportion of satisfactory but not premium ratings suggests a market with consistent but not exceptional quality.
+
+Opportunities exist for brands to innovate and elevate products into the premium and elite categories.
+
+
+
+
 
 # Key_Insights
+
+
 
 * Average rating: 3.19 (scale of 1–5) → Most ratings cluster between 2.75–3.50.
 
