@@ -92,18 +92,18 @@ Date column breakdown: The day, month, and year were extracted to facilitate tim
 
 * For Chocolate manufacturing Companies:
 
-Focus on quality over quantity: Since most ratings cluster between 2.75–3.50, improving consistency and flavor profiles could help brands stand out.
+**Focus on quality over quantity:** Since most ratings cluster between 2.75–3.50, improving consistency and flavor profiles could help brands stand out.
 Experiment with cocoa content: Explore beyond the common 70–75% range to identify niches in premium or milk chocolate segments.
 Differentiate sourcing: Highlight unique bean origins (e.g., single-origin marketing) to attract consumers seeking authenticity.
 
-**For Cocoa Supply chain or Industry Stakeholders:**
+* For Cocoa Supply chain or Industry Stakeholders:
 
-Promote diversity in the market: Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration.
+**Promote diversity in the market:** Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration.
 Educate consumers: Provide more transparency on bean origins and production processes to influence quality perception.
 
 *For Future Research/Analysis:
 
-Deeper sentiment analysis: Pair ratings with consumer reviews to capture qualitative insights.
+**Deeper sentiment analysis:** Pair ratings with consumer reviews to capture qualitative insights.
 Geographic preference mapping: Compare consumer preferences by region to align product offerings.
 Trend monitoring: Track shifts in cocoa content popularity (e.g., growth in low-sugar, vegan, or specialty bars).
 
