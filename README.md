@@ -4,12 +4,30 @@
 
 This project explores global artisan chocolate ratings through an interactive Power BI report. Using data on chocolate bars, companies, and cocoa content, the analysis uncovers trends in quality perception and market dynamics.
 
+# Data_Source
+This data was a group project at Blossom Academy.
+
+# Tools_and_Skills
+Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis. 
+
+Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
+
+Data visualization & storytelling
+
+Exploratory data analysis (EDA)
+
+# Data_Processing
+
+
 
 # Table of Contents
+
+- [Overview](#Overview)
+- [Data_Source](#Data_Source)
+- [Tools_and_Skills](#Tools_and_Skills)
 - [Objectives](#Objectives)
 - [Skills_Demonstrated](#Skills_Demonstrated)
-- [Tools_and_Skills](#Tools_and_Skills)
-- [Data_Source](#Data_Source)
+- [Data Analysis_and_visualization](#Data Analysis_and_visualization)
 - [Key_Insights](#Key_Insights)
 - [Recommendations](#Recommendations)
 
@@ -38,17 +56,9 @@ This analysis involved multiple data processing and analytical techniques, inclu
 
 * Critical Thinking & Problem-Solving: Identifying key trends and opportunities.
 
-# Tools_and_Skills
-Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis. 
 
-Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
+# Data Analysis_and_visualization
 
-Data visualization & storytelling
-
-Exploratory data analysis (EDA)
-
-# Data_Source
-This data was a group project at Blossom Academy.
 
 # Key_Insights
 
@@ -64,18 +74,18 @@ Global sourcing: Bean origins highlight the diverse international supply of caca
 
 # Recommendations
 
-For Chocolate Companies:
+* For Chocolate manufacturing Companies:
 
 Focus on quality over quantity: Since most ratings cluster between 2.75–3.50, improving consistency and flavor profiles could help brands stand out.
 Experiment with cocoa content: Explore beyond the common 70–75% range to identify niches in premium or milk chocolate segments.
 Differentiate sourcing: Highlight unique bean origins (e.g., single-origin marketing) to attract consumers seeking authenticity.
 
-For Industry Stakeholders:
+* For Cocoa Supply chain or Industry Stakeholders:
 
 Promote diversity in the market: Encourage smaller or emerging brands, especially outside North America/Europe, to reduce market concentration.
 Educate consumers: Provide more transparency on bean origins and production processes to influence quality perception.
 
-For Future Research/Analysis:
+*For Future Research/Analysis:
 
 Deeper sentiment analysis: Pair ratings with consumer reviews to capture qualitative insights.
 Geographic preference mapping: Compare consumer preferences by region to align product offerings.
